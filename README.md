@@ -28,7 +28,6 @@ Frontend developer who has a results-focused attitude to creating SPA, using Rea
 <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"  style="max-width:100%;"> 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"  style="max-width:100%;"> 
 <img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux"  style="max-width:100%;"> 
-<img src="https://img.shields.io/badge/redux--saga-20232A?style=for-the-badge&logo=redux-saga&logoColor=999999" alt="redux-saga"  style="max-width:100%;"> 
 <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"  style="max-width:100%;"> 
 <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"  style="max-width:100%;"> 
 <img src="https://img.shields.io/badge/sass-20232A?style=for-the-badge&logo=sass&logoColor=CC6699" alt="sass"  style="max-width:100%;"> 
