@@ -3,7 +3,7 @@
 ### I'm Andrew
 
 <b>
-Frontend developer who has a results-focused attitude to creating SPA, using React/Redux. And I love Type Script, it is beautiful.
+Frontend developer who has a results-focused attitude to creating SPA, using React/Redux/MobX. And I love Type Script, it is beautiful.
 
  </b>
 <hr>
