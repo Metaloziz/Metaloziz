@@ -36,7 +36,6 @@ Frontend developer who has a results-focused attitude to creating SPA, using Rea
 <img src="https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=181717" alt="github"  style="max-width:100%;"> 
 <img src="https://img.shields.io/badge/eslint-20232A?style=for-the-badge&logo=eslint&logoColor=4B32C3" alt="eslint"  style="max-width:100%;">
 <img src="https://img.shields.io/badge/Prettier-20232A?style=for-the-badge&logo=Prettier&logoColor=F7B93E" alt="Prettier"  style="max-width:100%;"> 
-<img src="https://img.shields.io/badge/react router-20232A?style=for-the-badge&logo=react router&logoColor=CA4245" alt="react router"  style="max-width:100%;">
 <img src="https://img.shields.io/badge/jest-20232A?style=for-the-badge&logo=jest&logoColor=CA4245" alt="react router"  style="max-width:100%;">
 </p>
 
